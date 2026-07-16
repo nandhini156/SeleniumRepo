@@ -19,6 +19,7 @@ public class WindowActivities {
 		Thread.sleep(1000);
 		driver.navigate().forward();
 		System.out.println("Navigated to automation practice page");
+		System.out.println("BRanch created");
 		driver.close();
 	}
 
